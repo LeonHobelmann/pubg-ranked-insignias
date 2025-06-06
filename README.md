@@ -6,11 +6,11 @@ Hier werden alle Ranked Insignias in gleicher Größe zur weiteren Benutzung fü
 
 [Master](https://raw.githubusercontent.com/LeonHobelmann/PUBG_Ranked_Insignias/refs/heads/main/Ranked_Logos_Fixed_Size_Master.png)
 
-[Diamand 1](https://raw.githubusercontent.com/LeonHobelmann/PUBG_Ranked_Insignias/refs/heads/main/Ranked_Logos_Fixed_Size_Diamand_1.png)
-[Diamand 2](https://raw.githubusercontent.com/LeonHobelmann/PUBG_Ranked_Insignias/refs/heads/main/Ranked_Logos_Fixed_Size_Diamand_2.png)
-[Diamand 3](https://raw.githubusercontent.com/LeonHobelmann/PUBG_Ranked_Insignias/refs/heads/main/Ranked_Logos_Fixed_Size_Diamand_3.png)
-[Diamand 4](https://raw.githubusercontent.com/LeonHobelmann/PUBG_Ranked_Insignias/refs/heads/main/Ranked_Logos_Fixed_Size_Diamand_4.png)
-[Diamand 5](https://raw.githubusercontent.com/LeonHobelmann/PUBG_Ranked_Insignias/refs/heads/main/Ranked_Logos_Fixed_Size_Diamand_5.png)
+[Diamand 1](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Diamond_1.png)
+[Diamand 2](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Diamond_2.png)
+[Diamand 3](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Diamond_3.png)
+[Diamand 4](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Diamond_4.png)
+[Diamand 5](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Diamond_5.png)
 
 [Platinum 1](https://raw.githubusercontent.com/LeonHobelmann/PUBG_Ranked_Insignias/refs/heads/main/Ranked_Logos_Fixed_Size_Platinum_1.png)
 [Platinum 2](https://raw.githubusercontent.com/LeonHobelmann/PUBG_Ranked_Insignias/refs/heads/main/Ranked_Logos_Fixed_Size_Platinum_2.png)

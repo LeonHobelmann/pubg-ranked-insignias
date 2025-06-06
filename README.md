@@ -18,14 +18,14 @@ Einheitlich formatierte Embleme für Discord-Bots, Web-Dashboards oder Tools.
 
 ## 🏆 Master
 
-![Master](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/main/Ranked_Logos_Fixed_Size_Master.png)
+<img src="https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/main/Ranked_Logos_Fixed_Size_Master.png" width="50" alt="Master" />
 
 ---
 
 ## ❔ Unranked
 
-![Unranked](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/main/Ranked_Logos_Fixed_Size_Unranked.png)
+<img src="https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/main/Ranked_Logos_Fixed_Size_Unranked.png" width="50" alt="Unranked" />
 
 ---
 
-> 💡 Alle Embleme sind gleich skaliert und sofort einsatzbereit für Bots, Dashboards oder Doku.
+> 💡 Alle Embleme sind gleich skaliert (auch Master/Unranked) und ideal für Bots, Dashboards & Automatisierungen.

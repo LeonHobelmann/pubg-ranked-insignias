@@ -21,17 +21,17 @@ Hier werden alle Ranked Insignias in gleicher Größe zur weiteren Benutzung fü
 [Gold 4](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Gold_4.png)
 [Gold 5](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Gold_5.png)
 
-[Silber 1](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Gold_1.png)
-[Silber 2](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Gold_2.png)
-[Silber 3](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Gold_3.png)
-[Silber 4](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Gold_4.png)
-[Silber 5](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Gold_5.png)
+[Silber 1](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Silver_1.png)
+[Silber 2](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Silver_2.png)
+[Silber 3](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Silver_3.png)
+[Silber 4](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Silver_4.png)
+[Silber 5](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Silver_5.png)
 
-[Bronze 1](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Silver_1.png)
-[Bronze 2](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Silver_2.png)
-[Bronze 3](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Silver_3.png)
-[Bronze 4](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Silver_4.png)
-[Bronze 5](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Silver_5.png)
+[Bronze 1](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Bronze_1.png)
+[Bronze 2](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Bronze_2.png)
+[Bronze 3](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Bronze_3.png)
+[Bronze 4](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Bronze_4.png)
+[Bronze 5](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Bronze_5.png)
 
 [Unranked](https://raw.githubusercontent.com/LeonHobelmann/pubg-ranked-insignias/0c21c508d2362c3d2f8e0107d2a1d7a389ae7cc1/Ranked_Logos_Fixed_Size_Unranked.png)
 
